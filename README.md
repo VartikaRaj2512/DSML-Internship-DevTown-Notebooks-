@@ -68,7 +68,7 @@ These projects underscore the power of DS & ML in solving problems critical to b
 
 2. **Navigate to the folder**:  
    ```bash
-   cd DSML-Internship-Notebooks
+   cd DSML-Internship-DevTown-Notebooks
    ```
 
 3. **Open the notebooks**:  
